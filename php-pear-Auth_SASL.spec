@@ -4,12 +4,12 @@
 
 Summary:	Generate responses to common SASL mechanisms
 Name:		php-pear-%{upstream_name}
-Version:	1.0.4
-Release:	%mkrel 3
+Version:	1.0.6
+Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
 URL:		http://pear.php.net/package/Auth_SASL/
-Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
+Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
 Requires:	php-pear
