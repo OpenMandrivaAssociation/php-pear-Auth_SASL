@@ -8,7 +8,7 @@ Version:	1.0.6
 Release:	13
 License:	PHP License
 Group:		Development/PHP
-Url:		http://pear.php.net/package/Auth_SASL/
+Url:		https://pear.php.net/package/Auth_SASL/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
 BuildArch:	noarch
 BuildRequires:	php-pear
